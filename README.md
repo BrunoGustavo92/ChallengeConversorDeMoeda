@@ -7,6 +7,13 @@
 Aplicação em Java que consulta taxas de câmbio em uma API pública e fornece um conversor de moedas via console.
 Este repositório contém a implementação de um conversor de moedas que busca as taxas em tempo real através da API exchangerate-api.com e permite realizar conversões fr Real "BRL" para outras moedas Dólar americano "USD", Euro "EUR", Peso Argentino "ARS", Peso Colombiano "COP", Libra Esterlina "GBP", Peso Chileno "CLP".
 
+<h2>Badge</h2>
+
+Está é a Bagde conquistada por ter finalizado o Challenge Conversor de moedas, pela Alura no programa ONE - "Oracle Next Education" em parceria com a Oracle:
+
+<img width="500" height="500" alt="Badge-Conversor" src="https://github.com/user-attachments/assets/3e9dc098-8db7-4191-b0b1-1e80ba4d68ca" />
+
+
 <h2>⚙️ Tecnologias Utilizadas</h2>
 
 ☕ Java 17+
